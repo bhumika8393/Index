@@ -83,7 +83,7 @@
                 row.insertCell(0).innerText = name;
                 row.insertCell(1).innerText = roll;
                 row.insertCell(2).innerText = course;
-                
+            
                 document.getElementById("name").value = "";
                 document.getElementById("roll").value = "";
                 document.getElementById("course").value = "";
